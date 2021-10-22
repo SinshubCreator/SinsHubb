@@ -10,4 +10,8 @@ Added KAT,
 
 Added SharkBite,
 
+Added Speedman Simulator,
+https://www.roblox.com/games/7065731541/One-day-Speedman-Simulator
+
+
 --ADDING GAMES.
