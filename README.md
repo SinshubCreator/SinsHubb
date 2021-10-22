@@ -15,4 +15,6 @@ https://www.roblox.com/games/7065731541/One-day-Speedman-Simulator
 
 Added Tower Of Hell,
 
+Added Build A Boat For Treasure,
+
 --ADDING GAMES.
