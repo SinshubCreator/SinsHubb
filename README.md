@@ -1,4 +1,4 @@
-Total Supported Games 7+
+Total Supported Games 8+
 
 Supported games,
 
