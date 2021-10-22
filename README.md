@@ -1,4 +1,4 @@
-Total Supported Games 6+
+Total Supported Games 7+
 
 Supported games,
 
@@ -13,5 +13,6 @@ Added SharkBite,
 Added Speedman Simulator,
 https://www.roblox.com/games/7065731541/One-day-Speedman-Simulator
 
+Added Tower Of Hell,
 
 --ADDING GAMES.
