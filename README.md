@@ -1,4 +1,4 @@
-Total Supported Games 8+
+Total Supported Games 9+
 
 Supported games,
 
@@ -16,5 +16,7 @@ https://www.roblox.com/games/7065731541/One-day-Speedman-Simulator
 Added Tower Of Hell,
 
 Added Build A Boat For Treasure,
+
+Added Breaking Point,
 
 --ADDING GAMES.
