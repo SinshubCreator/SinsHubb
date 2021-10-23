@@ -1,4 +1,4 @@
-Total Supported Games 9+
+Total Supported Games 10+
 
 Supported games,
 
@@ -18,5 +18,7 @@ Added Tower Of Hell,
 Added Build A Boat For Treasure,
 
 Added Breaking Point,
+
+Added BIG PaintBall,
 
 --ADDING GAMES.
