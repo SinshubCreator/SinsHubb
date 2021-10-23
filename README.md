@@ -1,4 +1,4 @@
-Total Supported Games 10+
+Total Supported Games 11+
 
 Supported games,
 
@@ -20,5 +20,7 @@ Added Build A Boat For Treasure,
 Added Breaking Point,
 
 Added BIG PaintBall,
+
+Added Adopt Me,
 
 --ADDING GAMES.
