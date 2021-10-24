@@ -1,4 +1,4 @@
-Total Supported Games 11+
+Total Supported Games 12+
 
 Supported games,
 
@@ -22,5 +22,7 @@ Added Breaking Point,
 Added BIG PaintBall,
 
 Added Adopt Me,
+
+Added Arsenal,
 
 --ADDING GAMES.
