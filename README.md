@@ -23,6 +23,6 @@ Added BIG PaintBall,
 
 Added Adopt Me,
 
-Added Arsenal,
+Added Lumber Tycoon 2
 
 --ADDING GAMES.
