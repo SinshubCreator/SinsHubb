@@ -1,6 +1,6 @@
 NEW Uİ SİNSHUB !
 
-Total Supported Games 12+
+Total Supported Games 13+
 
 Supported games,
 
@@ -25,6 +25,8 @@ Added BIG PaintBall,
 
 Added Adopt Me,
 
-Added Lumber Tycoon 2
+Added Lumber Tycoon 2,
+
+Added Shindo Life,
 
 --ADDING GAMES.
