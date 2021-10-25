@@ -27,6 +27,6 @@ Added Adopt Me,
 
 Added Lumber Tycoon 2,
 
-Added Mad City, (UNWORKİNG EDİTED)
+Added Mad City, (COME SOON !)
 
 --ADDING GAMES.
