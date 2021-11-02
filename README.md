@@ -1,7 +1,7 @@
 NEW SUPPORTED GAMES !
 
 
-Total Supported Games 13+
+Total Supported Games 14+
 
 Supported games,
 
@@ -29,6 +29,8 @@ Added Adopt Me,
 Added Lumber Tycoon 2,
 
 Added Ninja Legends,
+
+Added Youtube Simulator X!,
 
 Added Mad City, (COME SOON !)
 
