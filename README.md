@@ -1,7 +1,7 @@
 NEW SUPPORTED GAMES !
 
 
-Total Supported Games 14+
+Total Supported Games 16+
 
 Supported games,
 
@@ -30,8 +30,13 @@ Added Lumber Tycoon 2,
 
 Added Ninja Legends,
 
+Added Blox Fruits,
+
+Added Youtube Simulator X!,
+
+Added Squid Game ( TÜRKÇE )
 
 
-Added Mad City, (COME SOON !)
+Added Mad City, 
 
 --ADDING GAMES.
