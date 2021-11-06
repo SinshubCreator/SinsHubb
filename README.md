@@ -1,42 +1,26 @@
 NEW SUPPORTED GAMES !
+Total Supported Games 19+
+Supported games;
 
-
-Total Supported Games 16+
-
-Supported games,
-
-Added Pet Simulator X,
-
-Added Strongest Punch Simulator,
-
-Added KAT,
-
-Added SharkBite,
-
-Added Speedman Simulator,
-https://www.roblox.com/games/7065731541/One-day-Speedman-Simulator
-
-Added Tower Of Hell,
-
-Added Build A Boat For Treasure,
-
-Added Breaking Point,
-
-Added BIG PaintBall,
-
-Added Adopt Me,
-
-Added Lumber Tycoon 2,
-
-Added Ninja Legends,
-
-Added Blox Fruits,
-
-Added Youtube Simulator X!,
-
-Added Squid Game ( TÜRKÇE )
-
-
-Added Mad City, 
-
+Pet Simulator X
+Strongest Punch Simulator
+KAT
+SharkBite
+Speedman Simulator 
+Game Link: https://www.roblox.com/games/7065731541/One-day-Speedman-Simulator
+Tower Of Hell
+Build A Boat For Treasure
+Breaking Point
+BIG PaintBall
+Adopt Me
+Lumber Tycoon 2
+Ninja Legends
+Blox Fruits
+Youtube Simulator X!
+Squid Game ( TÜRKÇE )
+Mad City
+Car Dealership Tycoon
+Strongman Simulator
+Flee The Facility
+Hexa Game
 --ADDING GAMES.
