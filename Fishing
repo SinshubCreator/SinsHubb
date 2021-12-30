@@ -1,0 +1,10 @@
+local ds =  game:GetService("ReplicatedStorage").CloudFrameShared.DataStreams
+while task.wait(1) do
+for i = 1, 8 do
+    task.spawn(function() ds.FishBiting:InvokeServer() end)
+    task.wait(1)
+    ds.FishCaught:FireServer()
+    task.wait(1)
+end
+ds.processGameItemSold:InvokeServer("SellEverything")
+end
